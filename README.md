@@ -1,7 +1,3 @@
-Absolutely! Here's the **complete `README.md`** file for your **Distributed Redis Cache Decorator** project, ready to copy-paste:
-
----
-
 ### 📄 `README.md`
 
 ```markdown
